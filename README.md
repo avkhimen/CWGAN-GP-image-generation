@@ -6,7 +6,7 @@ Conditional Wasserstein GAN with gradient penalty for the generation of syntheti
 
 MNIST dataset was used to train the conditional WGAN. Gradient Penalty was also implemented. 
 
-Run the cells in sequence in jupyter notebook. Final cell contains code to create synthetic 
+Run the cells in sequence in `cwgan-gp.ipynb` jupyter notebook. Final cell contains code to create synthetic 
 image conditioned on a label.
 
 ## Getting Started
