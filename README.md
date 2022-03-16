@@ -9,6 +9,12 @@ MNIST dataset was used to train the conditional WGAN. Gradient Penalty was also 
 Run the cells in sequence in `cwgan-gp.ipynb` jupyter notebook. Final cell contains code to create synthetic 
 image conditioned on a label.
 
+Code in part based on:
+
+* https://keras.io/examples/generative/conditional_gan/
+* https://keras.io/examples/generative/wgan_gp/
+* https://keras.io/examples/generative/dcgan_overriding_train_step/
+
 ## Getting Started
 
 ### Dependencies
